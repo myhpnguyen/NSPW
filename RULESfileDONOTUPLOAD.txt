@@ -1,0 +1,22 @@
+This is going to be the rules file where we have our github rules. I'll also post this to discord. 
+These aren't set it stone but we do need a push standard otherwise this could end up quite chaotic for My's github. 
+
+1.If you make significant changes try to notify My or who ever is currently in charge of the major repo of what those changes are. 
+This is so that when the others come to pull the repo we're not totally lost. I Suggest we do this on discord and upload the logs here so we're not completely lost.
+
+2.If you're making a major functionality change, write it down. 
+This doesn't have to be an amazingly detailed description, but it should be meaningful enough the rest of the group can tell what functionality you're changing. 
+An example is if you're adding multiple other files from the tutorial to progress the project. 
+
+3.If you break it leave a note in discord and say what you think is broken. 
+if we upload something and it ends up breaking something, don't hate the person hate the problem. If there's more then one of us we may be able to troubleshoot 
+Faster then just one of us. 
+
+4.If you have a solution @ My or the admin so we can try an upload as soon as possible after we do a breif run through of the logic. 
+We're going to break something at some point, but we can fix it. 
+
+5.Don't fork. 
+We want to centralize as much as possible for now. 
+
+If you want something added or changed just let me know. 
+-John
